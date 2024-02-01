@@ -15,6 +15,11 @@ invention, award, nominations, jury are entered accordingly. Based on this the a
 decision is made by jury.
 
 ## ER Diagram 
-![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/f83c0e97-ebd6-40af-b7e1-0e1d582bcf28)
+![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/07716803-e093-46ca-9bc2-a3755a00b1d1)
+
+## Schema Diagram
+ ![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/c9dda492-026a-4cc4-b6d8-b2821387302e)
+
+
 
  
