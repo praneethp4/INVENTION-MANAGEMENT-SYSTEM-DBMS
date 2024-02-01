@@ -14,7 +14,7 @@ relationships are made within them. The information of the entities like invento
 invention, award, nominations, jury are entered accordingly. Based on this the award 
 decision is made by jury.
 
-# # ER Diagram 
+## ER Diagram 
 ![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/f83c0e97-ebd6-40af-b7e1-0e1d582bcf28)
 
  
