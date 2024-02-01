@@ -14,11 +14,23 @@ relationships are made within them. The information of the entities like invento
 invention, award, nominations, jury are entered accordingly. Based on this the award 
 decision is made by jury.
 
-## ER Diagram 
+## Entity Relationship Diagram 
 ![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/07716803-e093-46ca-9bc2-a3755a00b1d1)
 
 ## Schema Diagram
  ![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/c9dda492-026a-4cc4-b6d8-b2821387302e)
+
+## Initial Table
+![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/fd9329fd-54b9-415f-a032-1cbf8bb4c4b1)
+
+### 1NF Table
+![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/5d5bb29a-cdd4-43da-9112-999c79c3d4e3)
+
+### 2NF Table
+![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/235aa9a8-7cc1-465e-a6a9-cccc7ad34074)
+
+### 3NF Table
+![image](https://github.com/praneethp4/INVENTION-MANAGEMENT-SYSTEM-DBMS/assets/123055147/45ea5fcb-707e-43e3-970c-192cef3d1937)
 
 
 
